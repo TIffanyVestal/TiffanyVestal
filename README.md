@@ -1,6 +1,6 @@
 # Hello! I'm Tiffany 👋
 
-### I’m a mom to a smart and artsy 5-year-old daughter, a lifelong learner, and a data professional who enjoys designing and building database systems and integration solutions that help businesses make better decisions. 🎓🥳🎉
+### 🎉🚀💻 I’m a mom to a smart and artsy 5-year-old daughter, a lifelong learner, and a data professional who enjoys designing and building database systems and integration solutions that help businesses make better decisions. 🎓🥳🎉
 
 While many people spend years becoming experts in a single department, I was fascinated by the bigger picture. I wanted to understand how an entire business functions, not just one piece of it. That curiosity led me to intentionally seek experience across a wide range of industries and roles so I could learn firsthand how different organizations manage their data, workflows, and daily operations.
 
